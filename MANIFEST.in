@@ -1,0 +1,8 @@
+include tox.ini
+include README.md
+include requirements.txt
+include setup.py
+
+recursive-include unfriendly, tests
+
+recursive-exclude docs

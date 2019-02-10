@@ -1,0 +1,4 @@
+flake8==3.6.0
+PySide==1.2.4
+pytest==3.10.1
+tweepy==3.6.0
